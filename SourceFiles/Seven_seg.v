@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-
+//adapted from fpgaforstudents.com
 
 
 module Seven_seg(
